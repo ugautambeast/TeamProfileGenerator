@@ -1,5 +1,24 @@
 {
+  "name": "homework10",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ugautambeast/TeamProfileGenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ugautambeast/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/ugautambeast/TeamProfileGenerator#readme",
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "inquirer": "^9.1.2",
+    "jest": "^29.1.2"
+  },
+  "description": ""
 }

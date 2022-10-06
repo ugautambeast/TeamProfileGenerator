@@ -1,0 +1,33 @@
+.jumbotron {
+    background-color: cyan;
+    color: black;
+}
+
+.justify-content-center {
+    justify-content: space-evenly;
+}
+
+body {
+    background-color: darkslategrey;
+}
+
+.card-custom {
+    background-color: rgb(179, 186, 207);
+    color: #000000;
+    text-shadow: white 1px 1px;
+    max-width: 500px;
+}
+
+.employee {
+    padding-left: 2px;
+}
+
+/* .intern {
+    
+}
+.engineer {
+    
+}
+.manager {
+    
+} */
